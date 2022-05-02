@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildNoodleBrain
 - 👀 I’m interested in pets, gardening, and randomness. 
-- 🌱 I’m currently learning js node
+- 🌱 I’m currently learning js & c#
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me dm
 
