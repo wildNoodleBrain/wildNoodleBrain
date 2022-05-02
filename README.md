@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wildNoodleBrain
 - 👀 I’m interested in pets, gardening, and randomness. 
 - 🌱 I’m currently learning js & c#
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m looking to collaborate on newbie stuff
 - 📫 How to reach me dm
 
 <!---
