@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @wildNoodleBrain
-- 👀 I’m interested in pets, gardening, and randomness. 
-- 🌱 I’m currently learning js & c#
-- 💞️ I’m looking to collaborate on newbie stuff
-- 📫 How to reach me dm
+Bio:
+I recently completed Women+ and am currently learning more about JavaScript, C#/ASP.net, Angular, and HTML/CSS. I am actively looking for development positions.
 
 <!---
 wildNoodleBrain/wildNoodleBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
